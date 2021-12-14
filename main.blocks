@@ -1,40 +1,40 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="7Vy6%pce2}82mIT$97;R" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="*2$+9G2_(i1pr_V~h~6$"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="A+)!l3*iBIv|%r[s.~[." x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="qhgUse,J?+Qj+QH$HwP:"><field name="LEDS">`
         # # . # # 
         # # . # # 
         . . . . . 
         # . . . # 
         . # # # .
-        `</field></block></statement></block><block type="device_button_event" id="WgQj`kYp2;mmtP6Q5$+]" x="274" y="1"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="B4(?Rontp_Zu**lWme}O"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_button_event" id="R?kw^!JejcxXkuTawYej" x="274" y="1"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="OH.rd)Y8T2UwdO`V-eG@"><field name="LEDS">`
         # # . # # 
         # # . # # 
         . . . . . 
         . # # # . 
         # . . . #
-        `</field></block></statement></block><block type="device_button_event" id="!aNnlvu]o2_!CZI)2`-?" x="521" y="63"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="i)P#EL;tA^)POZ06~myc"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_button_event" id="r{/yP.)RlLc/.!nPwx`a" x="521" y="63"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="vR1V$uxpe#s}ed|p{t/G"><field name="LEDS">`
         . . . . . 
         # . # . . 
         . . . . . 
         # . . . # 
         . # # # .
-        `</field><next><block type="device_show_leds" id="bOnWS@{2hB.XG:(D~=0/"><field name="LEDS">`
+        `</field><next><block type="device_show_leds" id="R6i-|oQHr!nmshF,60~W"><field name="LEDS">`
         . . . . . 
         . . # . # 
         . . . . . 
         . # # # . 
         # . . . #
-        `</field></block></next></block></statement></block><block type="input_logo_event" id="1s[i-Q*fCU_h}V/-B4%6" x="-6" y="317"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="basic_show_icon" id="duoQnPQarOlX*5!QF.3G"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_pin_event" id="%nAG,MDvaY16O}:dbd5Y" x="263" y="331"><field name="name">TouchPin.P0</field><statement name="HANDLER"><block type="device_show_leds" id=",=b#Q0KO]%RZzTk3-{84"><field name="LEDS">`
+        `</field></block></next></block></statement></block><block type="input_logo_event" id="1@Fe_|l@wkE-J51m|_bP" x="-6" y="317"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="basic_show_icon" id="6-3!MKwdX?ne.mpAcn_A"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_pin_event" id="Iyu}S]?~Pi?6sz2#t=^z" x="263" y="331"><field name="name">TouchPin.P0</field><statement name="HANDLER"><block type="device_show_leds" id="vON,!ERKLAMiBsso-GDC"><field name="LEDS">`
         # # . # # 
         # # . # # 
         . . # . . 
         . # . # . 
         . . # . .
-        `</field></block></statement></block><block type="device_pin_event" id="iswfK@Is=9~!DHi[B8w." x="25" y="475"><field name="name">TouchPin.P1</field><statement name="HANDLER"><block type="device_show_leds" id="F4a+G|0t.J|{*,G4GQm="><field name="LEDS">`
+        `</field></block></statement></block><block type="device_pin_event" id="X;Wu^MO,!-:[uWUywtcR" x="25" y="475"><field name="name">TouchPin.P1</field><statement name="HANDLER"><block type="device_show_leds" id="kD)|a7|x4gN4wTvzo4,K"><field name="LEDS">`
         # # . # # 
         # # . # # 
         . . . . . 
         . # . # . 
         # . # . #
-        `</field></block></statement></block><block type="device_pin_event" id="AQIwF@LPES*bpf5{cMiX" x="269" y="641"><field name="name">TouchPin.P2</field><statement name="HANDLER"><block type="device_show_leds" id="OVn/B;P$4m-Kz`gKe?3?"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_pin_event" id="YOV%bV_0CKHW_gXQbEs7" x="269" y="641"><field name="name">TouchPin.P2</field><statement name="HANDLER"><block type="device_show_leds" id="@hRGK%Qtztb8,m*8.;3#"><field name="LEDS">`
         # . . . # 
         . # . # . 
         . . . . . 
